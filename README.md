@@ -20,3 +20,8 @@ project description
 
 Car selling e-commerce website developed using Django. The platform allows users to browser user registration, available Cars,Cars details, manage their cart, place to orders, then user return go to home page.
 
+Developer
+Naziya Herwade
+
+Intership
+CodeAlpha Intership program
